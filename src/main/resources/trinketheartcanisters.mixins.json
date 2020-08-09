@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dev.emi.trinketheartcanisters.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"LivingEntityMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

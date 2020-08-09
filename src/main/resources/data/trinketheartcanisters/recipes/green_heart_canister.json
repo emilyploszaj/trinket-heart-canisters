@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" I ",
+		"GCD",
+		" H "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"G": {
+			"item": "minecraft:golden_apple"
+		},
+		"H": {
+			"item": "trinketheartcanisters:green_heart"
+		},
+		"C": {
+			"item": "trinketheartcanisters:red_heart_canister"
+		},
+		"D": {
+			"item": "minecraft:wither_skeleton_skull"
+		}
+	},
+	"result": {
+		"item": "trinketheartcanisters:green_heart_canister",
+		"count": 1
+	}
+}

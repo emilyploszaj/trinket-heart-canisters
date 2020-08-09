@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "trinketheartcanisters:green_heart"
+		}
+	],
+	"result": {
+		"item": "trinketheartcanisters:red_heart",
+		"count": 1
+	}
+}

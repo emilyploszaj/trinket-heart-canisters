@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "trinketheartcanisters:item/blue_heart_canister"
+	}
+}

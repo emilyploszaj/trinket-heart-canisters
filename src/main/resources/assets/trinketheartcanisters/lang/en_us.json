@@ -1,0 +1,12 @@
+{
+	"item.trinketheartcanisters.red_heart": "Red Heart",
+	"item.trinketheartcanisters.green_heart": "Green Heart",
+	"item.trinketheartcanisters.blue_heart": "Blue Heart",
+	"item.trinketheartcanisters.red_heart_canister": "Red Heart Canister",
+	"item.trinketheartcanisters.green_heart_canister": "Green Heart Canister",
+	"item.trinketheartcanisters.blue_heart_canister": "Blue Heart Canister",
+
+	"trinkets.slot.heartcanisters.redhearts": "Red Heart Canister",
+	"trinkets.slot.heartcanisters.greenhearts": "Green Heart Canister",
+	"trinkets.slot.heartcanisters.bluehearts": "Blue Heart Canister"
+}

@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "trinket-heart-canisters",
+	"version": "1.0.0",
+
+	"name": "Trinket Heart Canisters",
+	"description": "Adds heart canisters as trinkets",
+	"authors": [
+		"Emi"
+	],
+	"contact": {
+		"homepage": "https://emi.dev/",
+		"sources": "https://github.com/emilyploszaj/trinket-heart-canisters"
+	},
+
+	"license": "MIT",
+	"icon": "assets/trinketheartcanisters/icon.png",
+
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.emi.trinketheartcanisters.TrinketHeartCanistersMain"
+		],
+		"client": [
+		]
+	},
+	"mixins": [
+		"trinketheartcanisters.mixins.json"
+	],
+
+	"depends": {
+		"trinkets": ">=2.6.4",
+		"fabricloader": ">=0.4.0",
+		"fabric": "*"
+	},
+	"suggests": {
+		"flamingo": "*"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" I ",
+		"TCB",
+		" H "
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"T": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"H": {
+			"item": "trinketheartcanisters:blue_heart"
+		},
+		"C": {
+			"item": "trinketheartcanisters:green_heart_canister"
+		},
+		"B": {
+			"item": "minecraft:dragon_breath"
+		}
+	},
+	"result": {
+		"item": "trinketheartcanisters:blue_heart_canister",
+		"count": 1
+	}
+}
