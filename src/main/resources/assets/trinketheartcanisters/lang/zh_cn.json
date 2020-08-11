@@ -1,0 +1,12 @@
+{
+	"item.trinketheartcanisters.red_heart": "猩红之心",
+	"item.trinketheartcanisters.green_heart": "碧绿之心",
+	"item.trinketheartcanisters.blue_heart": "蔚蓝之心",
+	"item.trinketheartcanisters.red_heart_canister": "红心容器",
+	"item.trinketheartcanisters.green_heart_canister": "绿心容器",
+	"item.trinketheartcanisters.blue_heart_canister": "蓝心容器",
+
+	"trinkets.slot.heartcanisters.redhearts": "红心容器",
+	"trinkets.slot.heartcanisters.greenhearts": "绿心容器",
+	"trinkets.slot.heartcanisters.bluehearts": "蓝心容器"
+}
